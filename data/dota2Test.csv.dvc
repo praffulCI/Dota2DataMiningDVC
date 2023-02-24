@@ -1,0 +1,4 @@
+outs:
+- md5: 63f524c61b14d1bf5d030995e868b3bb
+  size: 2485646
+  path: dota2Test.csv
